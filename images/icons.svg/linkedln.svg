@@ -11,3 +11,6 @@
 </clipPath>
 </defs>
 </svg>
+<svg class="icon">
+    <use xlink:href="#linkedln"></use>
+</svg>

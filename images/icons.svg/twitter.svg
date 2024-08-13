@@ -9,3 +9,6 @@
 </clipPath>
 </defs>
 </svg>
+<svg class="icon">
+    <use xlink:href="#twitter"></use>
+</svg>

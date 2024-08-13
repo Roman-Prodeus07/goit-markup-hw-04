@@ -12,3 +12,6 @@
 </clipPath>
 </defs>
 </svg>
+<svg class="icon">
+    <use xlink:href="#diagram"></use>
+</svg>
